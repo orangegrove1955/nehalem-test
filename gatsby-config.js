@@ -3,7 +3,16 @@ module.exports = {
     title: `Alcohol Reviews`,
     siteUrl: `https://nehalem.netlify.com`,
     description: `The place to read about %TOPICS%`,
-    topics: [`alcohol`, `whiskey`, `whisky`, `liquor`, `gin`, `rum`, `vodka`],
+    topics: [
+      `alcohol`,
+      `whiskey`,
+      `whisky`,
+      `liquor`,
+      `gin`,
+      `rum`,
+      `vodka`,
+      `cocktails`,
+    ],
     menu: [
       {
         name: "Whisky",
@@ -20,6 +29,10 @@ module.exports = {
       {
         name: "Vodka",
         path: "/vodka",
+      },
+      {
+        name: "Cocktails",
+        path: "/cocktails",
       },
     ],
     footerMenu: [
@@ -39,13 +52,15 @@ module.exports = {
         name: "Vodka",
         path: "/vodka",
       },
+      {
+        name: "Cocktails",
+        path: "/cocktails",
+      },
     ],
     search: true,
     author: {
-      name: `Matthew`,
-      description: `I'm <strong>nehalem</strong>, a Gatsby theme by 
-        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
-        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
+      name: `Alcohol Reviews`,
+      description: `Alcohol Reviews is the best place to find out about new liquors packed full of flavour and excitement`,
       social: {
         facebook: ``,
         twitter: ``,
