@@ -1,11 +1,11 @@
 ---
-title: "New Demo"
-path: "/demoPath"
-tags: ["Rum"]
-featuredImage: "./cover.jpg"
-excerpt: This is an excerpt of what I wanna say
+title: "Lorem ipsum"
+path: "/demo"
+tags: ["Whisky"]
+featuredImage: "../assets/images/cover.jpg"
+excerpt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 created: 2019-07-22
-updated: 2020-07-22
+updated: 2019-07-22
 ---
 
 ## Cruciabere instruit
