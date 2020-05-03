@@ -11,3 +11,7 @@ updated: 2020-05-02T14:00:00.000+00:00
 
 ---
 Look ma, I posted from forestry, and changed the picture and title
+
+Just want to test I can add an image too: 
+
+![](../assets/images/cover.jpg)
