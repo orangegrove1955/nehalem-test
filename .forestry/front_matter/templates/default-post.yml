@@ -1,0 +1,25 @@
+---
+label: Default post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: path
+  label: path
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: created
+  label: created
+- type: datetime
+  name: updated
+  label: updated
