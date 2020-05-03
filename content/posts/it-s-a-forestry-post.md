@@ -3,10 +3,10 @@ title: It's a forestry post
 path: "/forestryPath"
 tags:
 - Vodka
-featuredImage: ''
+featuredImage: "/content/assets/images/logo.png"
 excerpt: This is a post from Forestry
 created: 2020-05-02T14:00:00Z
-updated: 
+updated: 2020-05-02T14:00:00Z
 
 ---
 Look ma, I posted from forestry
