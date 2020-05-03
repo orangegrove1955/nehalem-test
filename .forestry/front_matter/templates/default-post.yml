@@ -23,3 +23,5 @@ fields:
 - type: datetime
   name: updated
   label: updated
+pages:
+- content/posts/it-s-a-forestry-post.md
