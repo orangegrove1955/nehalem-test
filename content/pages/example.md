@@ -1,10 +1,16 @@
 ---
-title: Sample page
-path: "/page"
-excerpt: A sample page.
+title: Whisky
+path: "/whisky"
+excerpt: A page about whisky.
 ---
 
-## Dicta tela magis
+# Types
+
+## Scotch
+
+## Bourbon
+
+## Other
 
 Lorem markdownum greges licet est sedesque, et equos enim. Super magniloquo
 culpa, aut matrem fatur esse putes, patientia. Sacer cum esse, notavi, factus

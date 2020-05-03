@@ -1,4 +1,32 @@
-- name: Demo
-  color: "#007acc"
+- name: Whisky
+  color: "#ffffff"
   icon: ./assets/images/logo.png
   featured: true
+- name: Scotch
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: false
+- name: Bourbon
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: false
+- name: Vodka
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: true
+- name: Gin
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: true
+- name: Rum
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: true
+- name: Light Rum
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: false
+- name: Dark Rum
+  color: "#ffffff"
+  icon: ./assets/images/logo.png
+  featured: false
