@@ -7,7 +7,6 @@ sections:
 - type: document
   path: gatsby-config.js
   label: Navbar
-  match: "**/*"
 - type: document
   path: content/tags.yml
   label: Tags
