@@ -3,7 +3,7 @@ title: New Demo
 path: "/demoPath"
 tags:
 - Rum
-featuredImage: "/content/assets/images/cover.jpg"
+featuredImage: content/assets/images/cover.jpg
 excerpt: This is an excerpt of what I wanna say
 created: 2019-07-22
 updated: 2020-07-22
