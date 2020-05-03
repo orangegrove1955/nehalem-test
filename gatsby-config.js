@@ -1,14 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `nehalem-starter`,
+    title: `Alcohol Reviews`,
     siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby starter for nehalem`,
-    topics: [],
+    description: `The place to read about %TOPICS%`,
+    topics: [`alcohol`, `whiskey`, `whisky`, `liquor`, `gin`, `rum`, `vodka`],
     menu: [
-      {
-        name: "Home",
-        path: "/",
-      },
       {
         name: "Whisky",
         path: "/whisky",
